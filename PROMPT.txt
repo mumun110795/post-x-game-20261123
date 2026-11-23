@@ -1,0 +1,1 @@
+Build a neon browser game where a glowing orb speeds down an endless corridor and the player presses one button to flip gravity between the floor and the ceiling, dodging jagged crystal shards, collecting stars for bonus points, and going faster and faster until a single crash ends the run.
